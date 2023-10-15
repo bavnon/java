@@ -3,7 +3,7 @@ package analog;
 import java.awt.BorderLayout;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-
+// Made By Benny Avnon
 public class AnalogClock {
 	private static final int WIDTH = 320;
 	private static final int HEIGHT = 400;
