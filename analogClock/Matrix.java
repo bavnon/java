@@ -8,7 +8,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JPanel;
 import javax.swing.Timer;
-
+// Made By Benny Avnon
 public class Matrix extends JPanel {
 
 	public final double TWO_PI = 6.278;
