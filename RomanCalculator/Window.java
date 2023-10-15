@@ -25,6 +25,8 @@ import javax.swing.border.StrokeBorder;
 
 //import snake.Direction;
 //import static snake.Graund.*;
+
+// Made By Benny Avnon
 public class Window {
 	public static final int WIDTH = 400, HEIGHT = 320;
 	public static final int CWIDTH = 20;
